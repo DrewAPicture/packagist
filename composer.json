@@ -1,5 +1,5 @@
 {
-	"name"       : "rmccue/wp-parser",
+	"name"       : "DrewAPicture/packagist",
 	"description": "Static code parser for WordPress source.",
 	"keywords"   : ["wordpress"],
 	"type"       : "wordpress-plugin",
