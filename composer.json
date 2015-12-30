@@ -1,5 +1,5 @@
 {
-	"name"       : "DrewAPicture/packagist",
+	"name"       : "drewapicture/packagist",
 	"description": "Static code parser for WordPress source.",
 	"keywords"   : ["wordpress"],
 	"type"       : "wordpress-plugin",
